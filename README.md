@@ -1,6 +1,7 @@
 # olympic_swimming_simulator
 
 Project Title: Olympic Swimming Race Simulator
+
 Language:      Typed Racket
 
 Motivation and Notes:
